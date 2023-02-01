@@ -3,11 +3,11 @@
 </dh1>
 <p align="center"> 
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E7E7E&width=435&lines=Hi+there%2C+my+name+is+Aarya;Computer+Science+Student;Software+Engineer%2FData+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E7E7E&width=500&lines=Hi+there%2C+my+name+is+Aarya;Computer+Science+Student;Software+Engineer%2FData+Analyst" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/michellengnx/">
+    <a href="https://ca.linkedin.com/in/aarya-bhardawaj-9944b623b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:aarya.bhardawaj@gmail.com">
