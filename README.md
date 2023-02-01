@@ -3,7 +3,7 @@
 </dh1>
 <p align="center"> 
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E7E7E&width=400&lines=Hi+there%2C+my+name+is+Aarya;Computer+Science+Student;Software+Engineer%2FData+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E7E7E&center=true&vCenter=true&lines=Hi+there%2C+my+name+is+Aarya;Computer+Science+Student;Software+Engineer%2FData+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
