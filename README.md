@@ -21,6 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=aaryabhardawaj&style=flat-square&color=grey" alt=""/>
 </p>
 
+<!--- This file is protected by Creative Commons Zero v1.0 Universal, Commercial use, Modification and Distribution are prohibited --->
+
 ### More About Me 😎
 
 🏗️ **Administrative Assistant** at **Perfect Machining & Services**
