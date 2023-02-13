@@ -27,6 +27,8 @@
 
 🏗️ **Administrative Assistant** at **Perfect Machining & Services**
 
-🎓 I am currently studying **Computer Science** at the **University of Toronto** 🍁
+⚙️ **Developer** at **Hack the North**
+
+🎓 Studying **Computer Science** at the **University of Toronto**
 
 💡 Seeking **Summer 2023** internships
